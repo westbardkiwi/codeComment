@@ -20,12 +20,10 @@ Please contact the Free Software Foundation for complete license.
 
  
 # Structure
------------------------------------------------------------------
 ## Overall structure is as follows:
 
 The program header is always at the top of the program before all
 other code. Acts as a reference and quick access since I use vim!
------------------------------------------------------------------
 
 ## Comment structure is as follows:
 
@@ -37,7 +35,6 @@ Even more so in python that has class headers and object headers!
 I only know so many languages so if there are others that require
 other kinds of headers to add. Check the repository for updates!!
 
------------------------------------------------------------------
 ## My code structure is as follows:
 
 -Imports are at the first line of uncommented code under a single
@@ -54,10 +51,10 @@ Make code better where possible.
 there are calls to other prgrams. Working out resolution for when
 references call outside program.
 
--Calls are at the last segment of the program. Again, I am not the
+-Calls are at the last segment of the program. Again I am not the
 best programmer so it may differ for a languages down the road...
------------------------------------------------------------------
------------------------------------------------------------------
+
+
 ## My Indentation Distances/Line Spacings are as follows:
 
 -Indentation distances for visual asthetic are usually two spaces
@@ -70,6 +67,5 @@ to be seen on the page. A remedy is to use proper line spacing!!!
 (IMPORTS/GLOBAL VARIABLES/FUNCTIONS/CALLS). Single spaces between
 minor blocks of code (most notably between functions inside major
 code structure name (FUNCTIONS).
------------------------------------------------------------------
-
-Star to watch for updated code!!
+---
+# Star to watch for updated code!!
