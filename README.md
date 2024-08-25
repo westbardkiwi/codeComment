@@ -67,5 +67,6 @@ to be seen on the page. A remedy is to use proper line spacing!!!
 (IMPORTS/GLOBAL VARIABLES/FUNCTIONS/CALLS). Single spaces between
 minor blocks of code (most notably between functions inside major
 code structure name (FUNCTIONS).
+
 ---
 # Star to watch for updated code!!
