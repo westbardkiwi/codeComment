@@ -55,7 +55,7 @@ references call outside program.
 best programmer so it may differ for a languages down the road...
 
 
-## My Indentation Distances/Line Spacings are as follows:
+## My Indentation Distances are as follows:
 
 -Indentation distances for visual asthetic are usually two spaces
 if I am feeling lazy it might just be a tab. Full tabs make blegh
