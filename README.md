@@ -48,7 +48,7 @@ as I am not the best programmer sometimes it feels unavoidable...
 Make code better where possible.
 
 Functions are underneath those darn global variables. Sometimes,
-there are calls to other prgrams. Working out resolution for when
+there are calls to other programs. Working out resolution for when
 references call outside program.
 
 Calls are at the last segment of the program. Again I am not the
